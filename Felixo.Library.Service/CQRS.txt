@@ -1,0 +1,4 @@
+﻿
+    CQRS or Command Query Responsibility Segregation is a design pattern to separate the read and write processes of your application. 
+
+    Read operations are called Queries and write operations are called Commands.

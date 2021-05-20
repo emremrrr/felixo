@@ -1,0 +1,55 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>4a2adc98-5ca3-4fbf-a061-284474822878</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="log4net.config" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Log4Net.AspNetCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.8.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.10" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.9" />
+    <PackageReference Include="PostSharp" Version="6.8.7" />
+    <PackageReference Include="PostSharp.Patterns.Diagnostics.Log4Net" Version="6.8.7" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.2.1" />
+    <PackageReference Include="RabbitMQ.Client.Core.DependencyInjection" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Felixo.Library.BookRequestService\Felixo.Library.Service.csproj" />
+    <ProjectReference Include="..\Felixo.Library.Data\Felixo.Library.Data.csproj" />
+    <ProjectReference Include="..\Felixo.Library.Logging\Felixo.Library.Logging.csproj" />
+    <ProjectReference Include="..\Felixo.Library.Messaging.Receive\Felixo.Library.Messaging.csproj" />
+    <ProjectReference Include="..\Felixo.Library.Messaging\Felixo.Library.Messaging.csproj" />
+    <ProjectReference Include="..\Felixo.Library.Service\Felixo.Library.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

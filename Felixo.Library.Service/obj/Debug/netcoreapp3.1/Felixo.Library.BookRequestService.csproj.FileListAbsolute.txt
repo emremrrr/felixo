@@ -1,0 +1,13 @@
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.deps.json
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.Data.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.Entities.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.Entities.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\bin\Debug\netcoreapp3.1\Felixo.Library.Data.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.csprojAssemblyReference.cache
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.AssemblyInfoInputs.cache
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.AssemblyInfo.cs
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.csproj.CopyComplete
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.BookRequestService\obj\Debug\netcoreapp3.1\Felixo.Library.BookRequestService.pdb

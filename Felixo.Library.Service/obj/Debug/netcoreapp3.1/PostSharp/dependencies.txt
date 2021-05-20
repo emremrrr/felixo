@@ -1,0 +1,2 @@
+C:\Users\ysf\Desktop\intro\Felixo.Library\Felixo.Library.Service\obj\Debug\netcoreapp3.1\PostSharp\PostSharp.Compiler.Engine.dll
+C:\Users\ysf\Desktop\intro\Felixo.Library\Felixo.Library.Service\obj\Debug\netcoreapp3.1\PostSharp\postsharp.config

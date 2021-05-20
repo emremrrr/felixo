@@ -1,0 +1,21 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.1",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "3.1.0"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "3.1.0"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\ysf\\.nuget\\packages\\",
+      "C:\\Microsoft\\Xamarin\\NuGet\\",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}

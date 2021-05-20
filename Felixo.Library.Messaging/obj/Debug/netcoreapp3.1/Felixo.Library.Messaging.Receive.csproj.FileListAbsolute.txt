@@ -1,0 +1,13 @@
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.deps.json
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.csprojAssemblyReference.cache
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.AssemblyInfoInputs.cache
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.AssemblyInfo.cs
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.DAL.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.Data.dll
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.Data.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\bin\Debug\netcoreapp3.1\Felixo.Library.DAL.pdb
+C:\Users\ysf\source\repos\Felixo.Library\Felixo.Library.Messaging.Receive\obj\Debug\netcoreapp3.1\Felixo.Library.Messaging.Receive.csproj.CopyComplete

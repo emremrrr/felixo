@@ -1,0 +1,17 @@
+﻿RabbitMQ is a messaging broker - an intermediary for messaging. 
+It gives your applications a common platform to send and receive messages,
+and your messages a safe place to live until received.
+
+Supports a wide variety of technologies like Docker, .NET.
+
+Higher availability and better error handling
+Better scalability
+Share data with whoever wants/needs it
+Better user experience due to asynchronous processing
+Higher availability and better error handling
+
+PRODUCER: An application responsible for sending messages
+CONSUMER: An application listening for messages
+QUEUE: Storage where messages are stored by the broker
+
+broker: aracı
